@@ -1,0 +1,379 @@
+{
+  "users": [
+    {
+      "id": "1460",
+      "firstName": "pay",
+      "lastName": "pay",
+      "email": "awdawd@gmail.com",
+      "username": "mustofa",
+      "password": "123456"
+    },
+    {
+      "id": "5fce",
+      "firstName": "cobaan",
+      "lastName": "cobaan1",
+      "email": "cobaan123@gmail.com",
+      "username": "percobaan",
+      "password": "123456"
+    },
+    {
+      "id": "a722",
+      "firstName": "percobaan",
+      "lastName": "percobaan",
+      "email": "percobaan@gmail.com",
+      "username": "percobaan1",
+      "password": "123456"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Kaos"
+    },
+    {
+      "id": "2",
+      "name": "Hoodie"
+    },
+    {
+      "id": "3",
+      "name": "kemeja"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "nameProduct": "Reebok Men's Blue and Navy Hoodie",
+      "categoryId": 1,
+      "price": 120000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "size": "M",
+          "stock": 4
+        }
+      ],
+      "colors": [
+        "#00ACC1",
+        "#26C6DA"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789279679_73e9ead76df649fe855cc3d0f5888d2f/P0.jpg"
+    },
+    {
+      "id": "2",
+      "nameProduct": "Men's Burgundy and Red Sweatshirt",
+      "categoryId": 3,
+      "price": 105000,
+      "sizes": [
+        {
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 2
+        }
+      ],
+      "colors": [
+        "#BF360C",
+        "#cf9259",
+        "#d51b21"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/44505945/1789237104_0a31b31ac784442784f47dbb0d57d4ef/P0.jpg"
+    },
+    {
+      "id": "3",
+      "nameProduct": "Champion Men's Navy and Black",
+      "categoryId": 2,
+      "price": 110000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "L",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#000",
+        "#01579B"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789271056_489ab37127c44718a8cf49240496ce5e/P0.jpg"
+    },
+    {
+      "id": "4",
+      "nameProduct": "Men's Blue Hoodie",
+      "categoryId": 2,
+      "price": 160000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "size": "M",
+          "stock": 2
+        }
+      ],
+      "colors": [
+        "#01579B"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789275728_00d4e8a57dfe41369878fc8dbfa47f6e/P0.jpg"
+    },
+    {
+      "id": "5",
+      "nameProduct": "Men's T-shirt",
+      "categoryId": 3,
+      "price": 140000,
+      "sizes": [
+        {
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 4
+        }
+      ],
+      "colors": [
+        "#000",
+        "#fff"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/27692966/1780499066_8838fcf1769b488495b49ed480df5660/P0.jpg"
+    },
+    {
+      "id": "6",
+      "nameProduct": "Forever 21 Men's White and Black Sweatshirt",
+      "categoryId": 1,
+      "price": 160000,
+      "sizes": [
+        {
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 10
+        }
+      ],
+      "colors": [
+        "#000",
+        "#fff"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/41211983/1789263690_19bc4b68737b4eb89b579ce6760679c8/P0.jpg"
+    },
+    {
+      "id": "7",
+      "nameProduct": "Men's Burgundy and Red Hoodie",
+      "categoryId": 1,
+      "price": 110000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "size": "M",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        "#C70039",
+        "#D50000"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789276536_d257404a675845f6b5bb6537660c9056/P0.jpg"
+    },
+    {
+      "id": "8",
+      "nameProduct": "Columbia Sportswear Men's Red Sweatshirt",
+      "categoryId": 2,
+      "price": 190000,
+      "sizes": [
+        {
+          "size": "L",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 5
+        }
+      ],
+      "colors": [
+        "#D50000"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/44505945/1789233166_939eb733524640f8b35967c679ed7e4e/P0.jpg"
+    },
+    {
+      "id": "9",
+      "nameProduct": "Men's White and Black T-shirt",
+      "categoryId": 3,
+      "price": 200000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "stock": 8
+        }
+      ],
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/46909714/1789273011_d1f09b98d3364ec8b4e3b3727341b419/P0.jpg"
+    },
+    {
+      "id": "10",
+      "nameProduct": "Nike Men's Green and Black Hoodie",
+      "categoryId": 2,
+      "price": 170000,
+      "sizes": [
+        {
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "size": "M",
+          "stock": 3
+        }
+      ],
+      "colors": [
+        "#008000",
+        "#000000"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/39920534/1789272370_4658e473921a43e180921f84827863f7/P0.jpg"
+    },
+    {
+      "id": "11",
+      "nameProduct": "Lee Men's Navy Sweatshirt",
+      "categoryId": 3,
+      "price": 140000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 4
+        },
+        {
+          "size": "M",
+          "stock": 10
+        }
+      ],
+      "colors": [
+        "#01579B"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789272681_cc020d95c00043db8bfa3cb8d30b4768/P0.jpg"
+    },
+    {
+      "id": "12",
+      "nameProduct": "Nike Men's Blue Hoodie",
+      "categoryId": 1,
+      "price": 194000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "stock": 7
+        }
+      ],
+      "colors": [
+        "#01579B"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/42230939/1789247433_147d123ef4574fd89372840511eec0c6/P0.jpg"
+    },
+    {
+      "id": "13",
+      "nameProduct": "Nike Men's Grey and Purple Sweatshirt",
+      "categoryId": 1,
+      "price": 178000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        "#E0E0E0",
+        "#8E24AA"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789265531_fd5f55864eb549f6afb4a233a8fd0725/P0.jpg"
+    },
+    {
+      "id": "14",
+      "nameProduct": "Nike Men's Grey Sweatshirt",
+      "categoryId": 3,
+      "price": 124000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 4
+        }
+      ],
+      "colors": [
+        "#E0E0E0"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/45859527/1789274918_c5de8c7d5b6f4ff5ae7a8d9c11823970/P0.jpg"
+    },
+    {
+      "id": "15",
+      "nameProduct": "Mossy Oak Men's multi T-shirt",
+      "categoryId": 2,
+      "price": 148000,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 3
+        },
+        {
+          "size": "M",
+          "stock": 8
+        }
+      ],
+      "colors": [
+        "#008000",
+        "#000000",
+        "#fff"
+      ],
+      "imageUrl": "https://media-photos.depop.com/b1/35220084/1789235033_c8c24d0e9aa441209badb0177ea86561/P0.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "a935",
+      "userId": "1460",
+      "productId": "10",
+      "quantity": 1,
+      "size": "L"
+    },
+    {
+      "id": "16cd",
+      "userId": "1460",
+      "productId": "1",
+      "quantity": 1,
+      "size": "S"
+    },
+    {
+      "id": "022d",
+      "userId": "1460",
+      "productId": "3",
+      "quantity": 2,
+      "size": "S"
+    }
+  ]
+}
